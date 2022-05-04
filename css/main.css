@@ -1,0 +1,12 @@
+.album{
+  display: inline-block;
+background-image: url(./pictures/Trava.jpg);
+
+}
+
+.album_pictures{
+  display: inline-block;
+  box-sizing: border-box;
+  width:25.33%;
+  padding: 20px;
+}
